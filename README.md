@@ -1,11 +1,10 @@
 # 🕷️ Welcome to my Profile! 🕷️
 
-I'm zkbyqd aka 0x7a, a 24-year-old, passionate cybersecurity enthusiast and CTF player from Hamburg, Germany 🇩🇪 with a burning desire to delve deeper into the realms of cybersecurity, penetration testing, and ethical hacking. \
-Looking forward, I am keen to steer my focus towards Quantum Computing, with a particular emphasis on Quantum Cryptography and Post-Quantum Cryptography.
+I'm zkbyqd aka 0x7a, a 24-year-old, passionate cybersecurity enthusiast and CTF player from Hamburg, Germany 🇩🇪 with a burning desire to delve deeper into the realms of cybersecurity, penetration testing, and ethical hacking.
 
 ## 🎮 About Me
 
-- 🔒 Cybersecurity Student
+- 🔒 Cybersecurity Student and Researcher
 - 🚀 Aspiring Pentester
 - 🛠️ CTF and Wargame Enthusiast
 - 🧑‍💻 Python, Bash, PowerShell
@@ -26,7 +25,7 @@ Looking forward, I am keen to steer my focus towards Quantum Computing, with a p
 ## 📫 Contact Me
 
 📧 Email: [z0.zkbyqd@proton.me](mailto:z0.zkbyqd@proton.me) \
-🤖 Discord: [zkbyqd](discord.gg/VqgkSsd2) \
+🤖 Discord: .0x74 \
 🐦 X: [zkbyqd](https://x.com/zkbyqd)
 
 I'm always eager to collaborate on cybersecurity projects, CTF challenges, or just engage in discussions about all things cybersecurity. If you're interested, don't hesitate to reach out!
