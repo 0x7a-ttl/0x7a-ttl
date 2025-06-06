@@ -24,7 +24,7 @@ I'm zkbyqd aka 0x7a, a 24-year-old, passionate cybersecurity enthusiast and CTF 
 
 ## 📫 Contact Me
 
-📧 Email: [z0.zkbyqd@proton.me](mailto:z0.zkbyqd@proton.me) \
+📧 Email: [0x7a@ttl.zip](mailto:0x7a@ttl.zip) \
 🤖 Discord: .0x74 \
 🔨 Kit: [zNull](https://kit.co/zNull)
 
