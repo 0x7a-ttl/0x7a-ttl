@@ -1,14 +1,13 @@
 # 🕷️ Welcome to my Profile! 🕷️
 
-I'm zkbyqd aka 0x7a, a 24-year-old, passionate cybersecurity enthusiast and CTF player from Hamburg, Germany 🇩🇪 with a burning desire to delve deeper into the realms of cybersecurity, penetration testing, and ethical hacking.
+I'm 0x7a, a 24-year-old, passionate cybersecurity enthusiast and CTF player from Hamburg, Germany 🇩🇪 with a burning desire to delve deeper into the realms of cybersecurity, penetration testing, and ethical hacking.
 
 ## 🎮 About Me
 
 - 🔒 Cybersecurity Student and Researcher
 - 🚀 Aspiring Pentester
 - 🛠️ CTF and Wargame Enthusiast
-- 🧑‍💻 Python, Bash, PowerShell
-- 🖤 pwn, re, net, wireless, crypto, hardware
+- 🧑‍💻 Python, Bash
 
 ## 💡 Goals
 
